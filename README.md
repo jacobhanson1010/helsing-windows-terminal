@@ -6,6 +6,8 @@ Based on the original JetBrains/IntelliJ theme **[Helsing](https://github.com/ig
 
 ## Preview
 
+![Helsing Windows Terminal preview](./preview.png)
+
 | Setting        | Color     |
 | -------------- | --------- |
 | Background     | `#3B3C3E` |
