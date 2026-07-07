@@ -1,0 +1,26 @@
+{
+    "name": "Helsing",
+
+    "background": "#3B3C3E",
+    "foreground": "#FFFFFF",
+    "cursorColor": "#CCCCCC",
+    "selectionBackground": "#6165AD",
+
+    "black": "#2E3436",
+    "red": "#F7BBBB",
+    "green": "#9EEA56",
+    "yellow": "#F5E030",
+    "blue": "#6495D4",
+    "purple": "#D595D9",
+    "cyan": "#40C8CA",
+    "white": "#E3E7DF",
+
+    "brightBlack": "#959793",
+    "brightRed": "#FFD9D9",
+    "brightGreen": "#B9FFB4",
+    "brightYellow": "#FFF09F",
+    "brightBlue": "#A5C5FF",
+    "brightPurple": "#F5C0FF",
+    "brightCyan": "#95F7FF",
+    "brightWhite": "#FFFFFF"
+}
